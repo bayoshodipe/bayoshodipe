@@ -21,8 +21,9 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/> </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/> </a> 
 <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" title="PowerBI" alt="PowerBI" width="60" height="60"/> </a>
-
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/bayoshodipe/bayoshodipe/assets/8863358/cadac177-4d15-48f7-baf2-6ee828e1d667" title="Tableau" alt="Tableau" width="60" height="60"/> </a> 
 </p>
+
 
 <p align="center">
 - 📫 How to reach me: shodipebayo@gmail.com
