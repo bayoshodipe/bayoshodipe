@@ -26,7 +26,7 @@
 </p>
 </div>
 <p align="center">
-- 📫 How to reach me: [shodipebayo@gmail.com](mailto:shodipebayo@gmail.com?subject=[GitHub] Hello Bayo)
+- 📫 How to reach me: shodipebayo@gmail.com
 </p>
 
 
