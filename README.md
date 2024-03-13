@@ -16,7 +16,7 @@
 
 ## Certification: <div>
 <p align="Left">
-<a href="www.credly.com/badges/b32ab8ae-4cc0-4188-9c55-bec5002e9ba0/linked_in_profile" target="_blank" rel="noreferrer"> <img src="https://github.com/bayoshodipe/bayoshodipe/assets/8863358/168c9d6d-ba46-4a1d-9a0f-a0147f30eeff" title="Data Analytics Certification" alt="Data Analytics Certification" width="150" height="150"/> </a>
+<a href="https://www.credly.com/badges/b32ab8ae-4cc0-4188-9c55-bec5002e9ba0/linked_in_profile" target="_blank" rel="noreferrer"> <img src="https://github.com/bayoshodipe/bayoshodipe/assets/8863358/168c9d6d-ba46-4a1d-9a0f-a0147f30eeff" title="Data Analytics Certification" alt="Data Analytics Certification" width="150" height="150"/> </a>
 </p>
 </div>
 
