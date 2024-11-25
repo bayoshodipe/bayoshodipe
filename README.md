@@ -28,6 +28,7 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/> </a> 
 <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494" target="_blank" rel="noreferrer"> <img src="https://github.com/bayoshodipe/bayoshodipe/assets/8863358/87c2ae33-e5ed-4195-92b3-7ebf499d89eb" title="Microsoft Excel" alt="Microsoft Excel" width="60" height="60"/> </a>
 <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" title="PowerBI" alt="PowerBI" width="60" height="60"/> </a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="streamlit.png" title="Streamlit" alt="Streamlit" width="60" height="60"/> </a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/bayoshodipe/bayoshodipe/assets/8863358/cadac177-4d15-48f7-baf2-6ee828e1d667" title="Tableau" alt="Tableau" width="60" height="60"/> </a> 
 </p>
 </div>
